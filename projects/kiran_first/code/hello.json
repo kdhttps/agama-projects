@@ -191,7 +191,7 @@
 					"type": "Agama-start-Flow",
 					"nodeColor": "",
 					"flowname": "hello.flow",
-					"basepath": "/hello",
+					"basepath": "hello",
 					"callType": "Call static method",
 					"logLevel": "info"
 				},
