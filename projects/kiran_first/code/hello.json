@@ -33,7 +33,7 @@
 					"displayName": "finish"
 				}
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 710,
@@ -190,27 +190,23 @@
 					"id": "Agama-start-Flow-42b8900d-86e2-4184-ad2a-5965d1871dce",
 					"type": "Agama-start-Flow",
 					"nodeColor": "",
-					"flowname": "co.acme.hello",
+					"flowname": "hello.flow",
 					"basepath": "\"\"",
 					"callType": "Call static method",
-					"logLevel": "info",
-					"hasSuccess": "",
-					"hasFailure": "",
-					"hasNoRepeat": true,
-					"hasRepeat": false
+					"logLevel": "info"
 				},
 				"inRepeatBlock": false,
 				"whenCondition": "",
 				"nextNodeType": "Agama-assignment-Node"
 			},
 			"position": {
-				"x": 10,
+				"x": -65,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 10,
+				"x": -65,
 				"y": 30
 			}
 		}
@@ -286,8 +282,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
+		"x": 163,
+		"y": 56,
 		"zoom": 1
 	}
 }
