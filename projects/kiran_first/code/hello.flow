@@ -1,6 +1,0 @@
-Flow co.acme.hello
-     Basepath ""
-in = "hello"
-RRF "index.ftlh" in
-Log "@info done"
-Finish finish
