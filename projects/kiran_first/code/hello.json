@@ -33,7 +33,7 @@
 					"displayName": "finish"
 				}
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 540,
@@ -146,10 +146,9 @@
 					"type": "Agama-start-Flow",
 					"nodeColor": "",
 					"flowname": "kiran_first",
-					"basepath": "",
+					"basepath": "hello",
 					"callType": "Call static method",
-					"logLevel": "info",
-					"hasNoRepeat": true
+					"logLevel": "info"
 				},
 				"inRepeatBlock": false,
 				"whenCondition": "",
@@ -159,7 +158,7 @@
 				"x": 10,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 10,
