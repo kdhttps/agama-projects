@@ -1,5 +1,5 @@
 Flow hello.flow
-     Basepath """"
+     Basepath ""
 in = "hello"
 RRF "index.ftlh" in
 Log "@info done"
