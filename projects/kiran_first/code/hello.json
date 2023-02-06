@@ -182,8 +182,8 @@
 				"id": "Agama-start-Flow-42b8900d-86e2-4184-ad2a-5965d1871dce",
 				"type": "Agama-start-Flow",
 				"position": {
-					"x": 30,
-					"y": 30
+					"x": 29,
+					"y": 34
 				},
 				"handles": [],
 				"agamaData": {
@@ -200,14 +200,14 @@
 				"nextNodeType": "Agama-assignment-Node"
 			},
 			"position": {
-				"x": -65,
-				"y": 30
+				"x": 29,
+				"y": 34
 			},
 			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": -65,
-				"y": 30
+				"x": 29,
+				"y": 34
 			}
 		}
 	],
@@ -282,8 +282,8 @@
 		}
 	],
 	"viewport": {
-		"x": 163,
-		"y": 56,
+		"x": 78,
+		"y": 42,
 		"zoom": 1
 	}
 }
