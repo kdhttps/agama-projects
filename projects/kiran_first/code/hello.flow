@@ -1,5 +1,5 @@
 Flow co.acme.hello
-     Basepath """"
+     Basepath ""
 in = "hello"
 RRF "index.ftlh" in
 Log "@info done"
