@@ -1,1 +1,15 @@
-{}
+{
+    "kiran_first": {
+        "gh_author": "kdhttps",
+        "gh_repo_path": "agama-projects",
+        "project_name": "kiran_first",
+        "version": "0.0.1",
+        "author": "kdhttps",
+        "author_website": "https://github.com/kdhttps/agama-projects",
+        "github_uri": "https://github.com/kdhttps/agama-projects",
+        "project_description": "kiran first project",
+        "license": "MIT",
+        "last_updated": "1675674809125",
+        "project_type": "community"
+    }
+}
