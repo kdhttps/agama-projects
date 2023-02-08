@@ -1,6 +1,6 @@
 Flow hello
      Basepath "hello"
-in = "hello"
+in = { hello: "hello" }
 RRF "index.ftlh" in
 Log "@info done"
 Finish finish
