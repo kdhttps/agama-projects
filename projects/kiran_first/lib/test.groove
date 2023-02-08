@@ -1,2 +1,4 @@
 java code
-void main java
+void main java() {
+print("hello")
+}
