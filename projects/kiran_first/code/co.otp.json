@@ -1,0 +1,56 @@
+[
+  {
+    "id": "Agama-start-Flow-ad71beee-f29d-4e42-8531-31942528d246",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-ad71beee-f29d-4e42-8531-31942528d246",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "handles": [],
+      "agamaData": {
+        "id": "Agama-start-Flow-ad71beee-f29d-4e42-8531-31942528d246",
+        "type": "Agama-start-Flow",
+        "hasSuccess": false,
+        "hasFailure": false,
+        "hasRepeat": false,
+        "hasNoRepeat": false,
+        "name": "",
+        "basepath": "otp",
+        "comment": "",
+        "flowfilename": "",
+        "assignedvariableName": "",
+        "callType": "Call static method",
+        "arguments": "",
+        "logMessage": "",
+        "variableType": "",
+        "templatePath": "",
+        "maxIteration": "",
+        "idpAuthEndpoint": "",
+        "whenVariable": "",
+        "whenConditionInputField": "",
+        "whenValue": "",
+        "returnVariable": "",
+        "asssignmentExpression": "",
+        "javaClassName": "",
+        "javaMethodName": "",
+        "javaVariableName": "",
+        "maxIterationVariableName": "",
+        "logLevel": "",
+        "assignCallbackResult": "",
+        "displayName": "otp",
+        "nodeColor": "",
+        "flowname": "co.otp"
+      },
+      "inRepeatBlock": false,
+      "whenCondition": ""
+    },
+    "position": {
+      "x": 30,
+      "y": 30
+    }
+  }
+]
