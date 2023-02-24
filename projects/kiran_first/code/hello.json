@@ -35,7 +35,7 @@
 					"displayName": ""
 				}
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 909,
 				"y": 199
@@ -169,7 +169,7 @@
 				},
 				"nextNodeType": "Agama-rrf-Node"
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 180,
