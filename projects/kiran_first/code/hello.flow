@@ -1,0 +1,6 @@
+Flow hello
+     Basepath "hello"
+in = { name: "kiran mali" }
+RRF "index.ftlh" in
+Log "@info done"
+__________ = __________
