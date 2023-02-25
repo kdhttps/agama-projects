@@ -35,7 +35,7 @@
 					"displayName": ""
 				}
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 909,
 				"y": 199
@@ -123,11 +123,11 @@
 					"arguments": "in",
 					"templatePath": "index.ftlh",
 					"displayName": "index html",
-					"isDescOpen": true
+					"isDescOpen": false
 				},
 				"nextNodeType": "Agama-log-Node"
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 338,
