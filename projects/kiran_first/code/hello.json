@@ -28,14 +28,14 @@
 					"inRepeatBlock": false,
 					"nodeColor": "",
 					"asssignedVariableName": "",
-					"comment": "This is assignment description",
+					"comment": "This is assignment description1",
 					"callType": "Call static method",
 					"logLevel": "info",
 					"assignmentExpression": "",
 					"displayName": ""
 				}
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 909,
 				"y": 199
@@ -127,7 +127,7 @@
 				},
 				"nextNodeType": "Agama-log-Node"
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 338,
