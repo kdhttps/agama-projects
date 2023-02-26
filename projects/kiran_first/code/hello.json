@@ -123,11 +123,11 @@
 					"arguments": "in",
 					"templatePath": "index.ftlh",
 					"displayName": "index html",
-					"isDescOpen": false
+					"isDescOpen": true
 				},
 				"nextNodeType": "Agama-log-Node"
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 338,
@@ -171,7 +171,7 @@
 				},
 				"nextNodeType": "Agama-rrf-Node"
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 180,
