@@ -32,7 +32,8 @@
 					"callType": "Call static method",
 					"logLevel": "info",
 					"assignmentExpression": "",
-					"displayName": ""
+					"displayName": "",
+					"isDescOpen": true
 				}
 			},
 			"selected": true,
@@ -167,7 +168,8 @@
 					"logLevel": "info",
 					"variableType": "map",
 					"assignmentExpression": "{ name: \"kiran mali\" }",
-					"displayName": "in var"
+					"displayName": "in var",
+					"isDescOpen": true
 				},
 				"nextNodeType": "Agama-rrf-Node"
 			},
